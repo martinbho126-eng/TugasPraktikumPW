@@ -1,0 +1,33 @@
+body {
+      background-image: url(epic.jpeg); 
+      background-size: auto;                
+      background-position: center;          
+      background-attachment: fixed;          
+      background-repeat: no-repeat;          
+      margin: 0;
+      font-family: sans-serif;
+    
+     font-family: sans-serif;
+     text-align: center;
+     background-color: hsl(0, 100%, 1%);
+     padding-top: 50px;
+}
+div {
+  background: #698cf5;
+  width: 350px;
+  margin: auto;
+  padding: auto;
+  border-radius: auto;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#info-game {
+  margin-top: 10px;
+  background: #f0f0f3;
+  padding: 10px;
+}
